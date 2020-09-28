@@ -1,4 +1,4 @@
-﻿namespace RudeToungeTester
+﻿namespace RudeToungeTester.CLI
 {
     class Program
     {
