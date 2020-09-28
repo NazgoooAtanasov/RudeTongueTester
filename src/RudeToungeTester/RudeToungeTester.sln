@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RudeToungeTesterML.ConsoleA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RudeToungeTester.IO", "RudeToungeTester.IO\RudeToungeTester.IO.csproj", "{9326D183-3FF5-41E5-93ED-B89B544DE7D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RudeToungeTester.Solver", "RudeToungeTester.Solver\RudeToungeTester.Solver.csproj", "{EDDFDB23-9441-4945-8803-F7A0F7D1CDE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9326D183-3FF5-41E5-93ED-B89B544DE7D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9326D183-3FF5-41E5-93ED-B89B544DE7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9326D183-3FF5-41E5-93ED-B89B544DE7D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDDFDB23-9441-4945-8803-F7A0F7D1CDE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDFDB23-9441-4945-8803-F7A0F7D1CDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDFDB23-9441-4945-8803-F7A0F7D1CDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDFDB23-9441-4945-8803-F7A0F7D1CDE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
