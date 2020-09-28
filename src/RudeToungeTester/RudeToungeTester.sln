@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RudeToungeTesterML.ConsoleA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RudeToungeTester.IO", "RudeToungeTester.IO\RudeToungeTester.IO.csproj", "{9326D183-3FF5-41E5-93ED-B89B544DE7D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RudeToungeTester.Solver", "RudeToungeTester.Solver\RudeToungeTester.Solver.csproj", "{EDDFDB23-9441-4945-8803-F7A0F7D1CDE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RudeToungeTester.Solvers", "RudeToungeTester.Solver\RudeToungeTester.Solvers.csproj", "{EDDFDB23-9441-4945-8803-F7A0F7D1CDE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RudeToungeTester.Controller", "RudeToungeTester.Controller\RudeToungeTester.Controller.csproj", "{2AA52E0F-BBDC-41D9-9314-DF4BE3715AF0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RudeToungeTester.Controllers", "RudeToungeTester.Controller\RudeToungeTester.Controllers.csproj", "{2AA52E0F-BBDC-41D9-9314-DF4BE3715AF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

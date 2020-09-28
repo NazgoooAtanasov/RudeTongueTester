@@ -1,8 +1,8 @@
-﻿namespace RudeToungeTester.Controller
+﻿namespace RudeToungeTester.Controllers
 {
     using RudeToungeTester.IO.Reader;
     using RudeToungeTester.IO.Writer;
-    using RudeToungeTester.Solver;
+    using RudeToungeTester.Solvers;
 
     public class Controller : IController
     {
@@ -12,18 +12,18 @@
 
         public Controller(IReader reader, IWriter writer, ISolver solver)
         {
-            this._reader = reader;
-            this._writer = writer;
-            this._solver = solver;
+            _reader = reader;
+            _writer = writer;
+            _solver = solver;
         }
 
         public void Execute()
         {
-            var text = this._reader.Read();
+            var text = _reader.Read();
 
-            var prediction = this._solver.Solve(text);
+            var prediction = _solver.Solve(text);
 
-            this._writer.Write(prediction);
+            _writer.Write(prediction);
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace RudeToungeTester.Solver
+﻿namespace RudeToungeTester.Solvers
 {
     public interface ISolver
     {

@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -10,6 +10,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\RudeToungeTester.Controller\RudeToungeTester.Controllers.csproj" />
+    <ProjectReference Include="..\RudeToungeTester.IO\RudeToungeTester.IO.csproj" />
+    <ProjectReference Include="..\RudeToungeTester.Solver\RudeToungeTester.Solvers.csproj" />
     <ProjectReference Include="..\RudeToungeTesterML.Model\RudeToungeTesterML.Model.csproj" />
   </ItemGroup>
 
