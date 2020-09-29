@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RudeTongueTester.CLI", "RudeToungeTester\RudeTongueTester.CLI.csproj", "{A4714FBC-4889-4348-9C56-BA2FC1879A12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RudeTongueTester.CLI", "RudeTongueTester\RudeTongueTester.CLI.csproj", "{A4714FBC-4889-4348-9C56-BA2FC1879A12}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RudeTongueTesterML.Model", "RudeToungeTesterML.Model\RudeTongueTesterML.Model.csproj", "{8714912F-A681-4A4D-8BA5-642832158E5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RudeTongueTesterML.Model", "RudeTongueTesterML.Model\RudeTongueTesterML.Model.csproj", "{8714912F-A681-4A4D-8BA5-642832158E5A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RudeTongueTesterML.ConsoleApp", "RudeToungeTesterML.ConsoleApp\RudeTongueTesterML.ConsoleApp.csproj", "{86E3000C-B975-4BD3-BADE-E9FF6400D831}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RudeTongueTesterML.ConsoleApp", "RudeTongueTesterML.ConsoleApp\RudeTongueTesterML.ConsoleApp.csproj", "{86E3000C-B975-4BD3-BADE-E9FF6400D831}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RudeTongueTester.IO", "RudeToungeTester.IO\RudeTongueTester.IO.csproj", "{9326D183-3FF5-41E5-93ED-B89B544DE7D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RudeTongueTester.IO", "RudeTongueTester.IO\RudeTongueTester.IO.csproj", "{9326D183-3FF5-41E5-93ED-B89B544DE7D2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RudeTongueTester.Solvers", "RudeToungeTester.Solver\RudeTongueTester.Solvers.csproj", "{EDDFDB23-9441-4945-8803-F7A0F7D1CDE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RudeTongueTester.Solvers", "RudeTongueTester.Solver\RudeTongueTester.Solvers.csproj", "{EDDFDB23-9441-4945-8803-F7A0F7D1CDE8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RudeTongueTester.Controllers", "RudeToungeTester.Controller\RudeTongueTester.Controllers.csproj", "{2AA52E0F-BBDC-41D9-9314-DF4BE3715AF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RudeTongueTester.Controllers", "RudeTongueTester.Controller\RudeTongueTester.Controllers.csproj", "{2AA52E0F-BBDC-41D9-9314-DF4BE3715AF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

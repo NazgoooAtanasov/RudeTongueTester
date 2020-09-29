@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RudeToungeTester.IO\RudeTongueTester.IO.csproj" />
-    <ProjectReference Include="..\RudeToungeTester.Solver\RudeTongueTester.Solvers.csproj" />
+    <ProjectReference Include="..\RudeTongueTester.IO\RudeTongueTester.IO.csproj" />
+    <ProjectReference Include="..\RudeTongueTester.Solver\RudeTongueTester.Solvers.csproj" />
   </ItemGroup>
 
 </Project>

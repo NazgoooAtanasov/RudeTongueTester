@@ -10,10 +10,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RudeToungeTester.Controller\RudeTongueTester.Controllers.csproj" />
-    <ProjectReference Include="..\RudeToungeTester.IO\RudeTongueTester.IO.csproj" />
-    <ProjectReference Include="..\RudeToungeTester.Solver\RudeTongueTester.Solvers.csproj" />
-    <ProjectReference Include="..\RudeToungeTesterML.Model\RudeTongueTesterML.Model.csproj" />
+    <ProjectReference Include="..\RudeTongueTester.Controller\RudeTongueTester.Controllers.csproj" />
+    <ProjectReference Include="..\RudeTongueTester.IO\RudeTongueTester.IO.csproj" />
+    <ProjectReference Include="..\RudeTongueTester.Solver\RudeTongueTester.Solvers.csproj" />
+    <ProjectReference Include="..\RudeTongueTesterML.Model\RudeTongueTesterML.Model.csproj" />
   </ItemGroup>
 
 </Project>
