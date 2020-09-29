@@ -1,4 +1,4 @@
-﻿namespace RudeToungeTester.IO.Reader
+﻿namespace RudeTongueTester.IO.Reader
 {
     public interface IReader
     {

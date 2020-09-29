@@ -1,27 +1,27 @@
-﻿using RudeToungeTester.Controllers;
-using RudeToungeTester.IO.Reader;
-using RudeToungeTester.IO.Writer;
-using RudeToungeTester.Solvers;
+﻿using RudeTongueTester.Controllers;
+using RudeTongueTester.IO.Reader;
+using RudeTongueTester.IO.Writer;
+using RudeTongueTester.Solvers;
 using SimpleInjector;
 
-namespace RudeToungeTester.CLI
+namespace RudeTongueTester.CLI
 {
     public static class StartUp
     {
-        public static Container _container;
+        public static Container Container;
 
         public static Container ConfigureServices()
         {
-            _container = new Container();
+            Container = new Container();
 
-            _container.Register<IWriter, Writer>();
-            _container.Register<IReader, Reader>();
-            _container.Register<ISolver, Solver>();
-            _container.Register<Controller>();
+            Container.Register<IWriter, Writer>();
+            Container.Register<IReader, Reader>();
+            Container.Register<ISolver, Solver>();
+            Container.Register<Controller>();
 
-            _container.Verify();
+            Container.Verify();
 
-            return _container;
+            return Container;
         }
     }
 }

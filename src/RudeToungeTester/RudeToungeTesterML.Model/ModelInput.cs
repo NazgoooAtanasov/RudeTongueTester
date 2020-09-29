@@ -2,7 +2,7 @@
 
 using Microsoft.ML.Data;
 
-namespace RudeToungeTesterML.Model
+namespace RudeTongueTesterML.Model
 {
     public class ModelInput
     {

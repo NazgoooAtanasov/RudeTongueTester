@@ -1,9 +1,9 @@
-﻿namespace RudeToungeTester.Controllers
-{
-    using RudeToungeTester.IO.Reader;
-    using RudeToungeTester.IO.Writer;
-    using RudeToungeTester.Solvers;
+﻿using RudeTongueTester.IO.Reader;
+using RudeTongueTester.IO.Writer;
+using RudeTongueTester.Solvers;
 
+namespace RudeTongueTester.Controllers
+{
     public class Controller : IController
     {
         private readonly IReader _reader;

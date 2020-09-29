@@ -1,8 +1,8 @@
-# RudeToungeTester
+# RudeTongueTester
 
-##### Title: "RudeToungeTester"
+##### Title: "RudeTongueTester"
 ---
-### **RudeToungeTester** is an application built with ML.NET for recognizing "rude" words or an entire sentence.
+### **RudeTongueTester** is an application built with ML.NET for recognizing "rude" words or an entire sentence.
 ---
 
 ### **Usage:**

@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RudeToungeTesterML.Model\RudeToungeTesterML.Model.csproj" />
+    <ProjectReference Include="..\RudeToungeTesterML.Model\RudeTongueTesterML.Model.csproj" />
   </ItemGroup>
 
 </Project>

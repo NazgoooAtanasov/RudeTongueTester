@@ -1,7 +1,7 @@
-﻿namespace RudeToungeTester.Solvers
-{
-    using RudeToungeTesterML.Model;
+﻿using RudeTongueTesterML.Model;
 
+namespace RudeTongueTester.Solvers
+{
     public class Solver : ISolver
     {
         private ModelInput _modelInput = new ModelInput();

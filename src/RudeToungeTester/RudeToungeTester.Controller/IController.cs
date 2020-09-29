@@ -1,4 +1,4 @@
-﻿namespace RudeToungeTester.Controllers
+﻿namespace RudeTongueTester.Controllers
 {
     public interface IController
     {

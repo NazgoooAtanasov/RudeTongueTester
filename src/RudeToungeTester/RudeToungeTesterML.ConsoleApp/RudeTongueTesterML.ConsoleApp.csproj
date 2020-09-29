@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -8,7 +8,7 @@
     <PackageReference Include="Microsoft.ML" Version="1.5.0-preview2" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RudeToungeTesterML.Model\RudeToungeTesterML.Model.csproj" />
+    <ProjectReference Include="..\RudeToungeTesterML.Model\RudeTongueTesterML.Model.csproj" />
   </ItemGroup>
 
   <ItemGroup>

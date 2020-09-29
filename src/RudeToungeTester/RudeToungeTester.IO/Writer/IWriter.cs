@@ -1,4 +1,4 @@
-﻿namespace RudeToungeTester.IO.Writer
+﻿namespace RudeTongueTester.IO.Writer
 {
     public interface IWriter
     {

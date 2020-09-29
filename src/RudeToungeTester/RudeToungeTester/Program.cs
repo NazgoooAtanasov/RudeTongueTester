@@ -1,6 +1,6 @@
-﻿using RudeToungeTester.Controllers;
+﻿using RudeTongueTester.Controllers;
 
-namespace RudeToungeTester.CLI
+namespace RudeTongueTester.CLI
 {
     class Program
     {

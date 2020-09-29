@@ -6,9 +6,9 @@ using System.IO;
 using System.Linq;
 using Microsoft.ML;
 using Microsoft.ML.Data;
-using RudeToungeTesterML.Model;
+using RudeTongueTesterML.Model;
 
-namespace RudeToungeTesterML.ConsoleApp
+namespace RudeTongueTesterML.ConsoleApp
 {
     public static class ModelBuilder
     {
